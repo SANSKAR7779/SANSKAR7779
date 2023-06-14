@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SANSKAR7779
-- 👀 I’m interested in IT sector
-- 🌱 I’m currently learning Advanced Python Programming.
+- 👀 IT sector
+- 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me  phone no. - 7894062126
 -                     email id - sanskarmaharana@gmail.com
 
